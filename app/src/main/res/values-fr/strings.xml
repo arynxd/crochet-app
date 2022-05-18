@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon application</string>
+    <string name="action_settings">Réglages</string>
+    <string name="first_fragment_label">Premier fragment</string>
+    <string name="second_fragment_label">Deuxième fragment</string>
+    <string name="next">Suivante</string>
+    <string name="previous">Précédente</string>
+    <string name="hello_first_fragment">Bonjour premier fragment</string>
+    <string name="hello_second_fragment">Bonjour deuxième fragment. Arg : %1$s</string>
+    <string name="title_activity_current">Activité actuel</string>
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="title_conversion">Conversion</string>
+    <string name="title_current">Courante</string>
+    <string name="conversion_label">CONVERSION</string>
+    <string name="current_label">COURANTE</string>
+    <string name="projects_label">PROJETS</string>
+    <string name="title_projects">Projets</string>
+    <string name="no_projects_found">Aucun projet trouvé</string>
+    <string name="no_current_project">Aucun projet en cours</string>
+    <string name="plus">+</string>
+    <string name="delete">EFFACER</string>
+    <string name="minus">-</string>
+    <string name="hook">Crochet</string>
+    <string name="uk">UK</string>
+    <string name="us">US</string>
+    <string name="n_a">N/A</string>
+</resources>

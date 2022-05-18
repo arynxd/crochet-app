@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Widget.Theme.CrochetApp.MyView" parent="">
+        <item name="android:background">@color/cardview_dark_background</item>
+    </style>
+</resources>

@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.aryn.crochet_app
 
 import org.junit.Test
 

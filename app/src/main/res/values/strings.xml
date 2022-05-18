@@ -9,4 +9,27 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_current">CurrentActivity</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_conversion">Conversion</string>
+    <string name="title_current">Current</string>
+    <string name="conversion_label">CONVERSION</string>
+    <string name="current_label">CURRENT</string>
+    <string name="projects_label">PROJECTS</string>
+    <string name="title_projects">Projects</string>
+    <string name="no_projects_found">No projects found</string>
+    <string name="no_current_project">No current project</string>
+    <string name="plus">+</string>
+    <string name="delete">DELETE</string>
+    <string name="minus">-</string>
+    <string name="hook">Hook</string>
+    <string name="_2mm" translatable="false">2mm</string>
+    <string name="_2_25mm" translatable="false">2.25mm</string>
+    <string name="uk">UK</string>
+    <string name="_14" translatable="false">14</string>
+    <string name="us">US</string>
+    <string name="n_a">N/A</string>
+    <string name="b_1" translatable="false">B/1</string>
+    <string name="_13" translatable="false">13</string>
 </resources>
