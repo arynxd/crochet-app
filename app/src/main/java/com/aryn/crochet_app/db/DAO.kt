@@ -76,8 +76,8 @@ interface DAO {
     @Query("UPDATE project SET is_current = :isCurrent WHERE project.id = :projectId")
     fun updateCurrentProject(projectId: Long, isCurrent: Boolean)
 
-    @Query("UPDATE project SET is_current = false")
-    fun clearAllCurrents()
+    @Query("UPDATE project SET is_current = :value")
+    fun clearAllCurrents(value: Boolean = false)
 
     @Query("UPDATE project SET current_part = :partId WHERE project.id = :projectId")
     fun updateCurrentPart(projectId: Long, partId: Long)
